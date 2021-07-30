@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.280aed4b.chunk.css",
-    "main.js": "/static/js/main.88307ce6.chunk.js",
-    "main.js.map": "/static/js/main.88307ce6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b3a3a8e2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b3a3a8e2.js.map",
+    "main.css": "/static/css/main.242dbcfb.chunk.css",
+    "main.js": "/static/js/main.c61b1813.chunk.js",
+    "main.js.map": "/static/js/main.c61b1813.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9cf52a70.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9cf52a70.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.dc36fac7.chunk.js": "/static/js/2.dc36fac7.chunk.js",
     "static/js/2.dc36fac7.chunk.js.map": "/static/js/2.dc36fac7.chunk.js.map",
-    "static/js/3.0568bd8c.chunk.js": "/static/js/3.0568bd8c.chunk.js",
-    "static/js/3.0568bd8c.chunk.js.map": "/static/js/3.0568bd8c.chunk.js.map",
+    "static/js/3.1e3c67f0.chunk.js": "/static/js/3.1e3c67f0.chunk.js",
+    "static/js/3.1e3c67f0.chunk.js.map": "/static/js/3.1e3c67f0.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.280aed4b.chunk.css.map": "/static/css/main.280aed4b.chunk.css.map",
+    "static/css/main.242dbcfb.chunk.css.map": "/static/css/main.242dbcfb.chunk.css.map",
     "static/js/2.dc36fac7.chunk.js.LICENSE.txt": "/static/js/2.dc36fac7.chunk.js.LICENSE.txt",
     "static/media/Logo-01.5a2d9fcf.png": "/static/media/Logo-01.5a2d9fcf.png",
     "static/media/Stem for girls.d2efce18.png": "/static/media/Stem for girls.d2efce18.png",
@@ -27,18 +27,16 @@
     "static/media/quest-alliance-logo.4675b0e7.jpg": "/static/media/quest-alliance-logo.4675b0e7.jpg",
     "static/media/shreyas.f327ef52.png": "/static/media/shreyas.f327ef52.png",
     "static/media/shruti.7713f407.png": "/static/media/shruti.7713f407.png",
-    "static/media/skills.d55a75f7.png": "/static/media/skills.d55a75f7.png",
     "static/media/synclarity-logo_1.694ad6f6.png": "/static/media/synclarity-logo_1.694ad6f6.png",
     "static/media/tncaademy-logo.4ce0da6c.png": "/static/media/tncaademy-logo.4ce0da6c.png",
     "static/media/translation.7cec8319.png": "/static/media/translation.7cec8319.png",
-    "static/media/video-development.588fa151.png": "/static/media/video-development.588fa151.png",
-    "static/media/why-us.0b38b56d.png": "/static/media/why-us.0b38b56d.png"
+    "static/media/video-development.588fa151.png": "/static/media/video-development.588fa151.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3a3a8e2.js",
+    "static/js/runtime-main.9cf52a70.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.dc36fac7.chunk.js",
-    "static/css/main.280aed4b.chunk.css",
-    "static/js/main.88307ce6.chunk.js"
+    "static/css/main.242dbcfb.chunk.css",
+    "static/js/main.c61b1813.chunk.js"
   ]
 }
