@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.783e3886.chunk.css",
-    "main.js": "/static/js/main.c8ea2e11.chunk.js",
-    "main.js.map": "/static/js/main.c8ea2e11.chunk.js.map",
+    "main.js": "/static/js/main.387772c2.chunk.js",
+    "main.js.map": "/static/js/main.387772c2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ebc30fae.js",
     "runtime-main.js.map": "/static/js/runtime-main.ebc30fae.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
@@ -23,7 +23,6 @@
     "static/media/calltoaction.css": "/static/media/cta-bg-1.c88b007f.jpg",
     "static/media/cta-bg.314069ea.jpg": "/static/media/cta-bg.314069ea.jpg",
     "static/media/home-img.2cd500e9.png": "/static/media/home-img.2cd500e9.png",
-    "static/media/kritika.5ce7ebeb.png": "/static/media/kritika.5ce7ebeb.png",
     "static/media/lakshay.74e7158d.png": "/static/media/lakshay.74e7158d.png",
     "static/media/logo.802543c0.png": "/static/media/logo.802543c0.png",
     "static/media/quest-alliance-logo.4675b0e7.jpg": "/static/media/quest-alliance-logo.4675b0e7.jpg",
@@ -39,6 +38,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.e06c1003.chunk.js",
     "static/css/main.783e3886.chunk.css",
-    "static/js/main.c8ea2e11.chunk.js"
+    "static/js/main.387772c2.chunk.js"
   ]
 }
